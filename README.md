@@ -8,7 +8,7 @@ This driver board is intended to facilitate large Neopixel arrays through split 
 
 The power and ground planes feed into 3 terminal blocks, respectively, allowing for up to 6 lines of power injection.  Additionally, there are 4 mounting holes for M3 screws. The graphic below shows a potential use case.
 
-![](https://i.imgur.com/d9mHfxz.png)
+![](https://github.com/jps723/neopixelDriver/blob/master/images/diagram.png)
 
 *Note: This is intended for use with 5v microcontrollers.  Controllers outputting 3.3v or similar (i.e. raspberry pi/teensy) may require level shifting on the data line.
 
